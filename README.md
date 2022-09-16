@@ -1,1 +1,1 @@
-# Project-Pulmones
+# Diagnosing-Lungs
